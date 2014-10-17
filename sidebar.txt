@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gyn:home|Door43 (gyn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gyn|d43-gyn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gyn/archive/master.zip|d43-gyn.zip]]
+
+**Recent Changes**
+{{changes>ns = gyn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gyn|Ethnologue data]]
+
